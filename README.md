@@ -1,3 +1,8 @@
+## Related Repositories
+- [Client Repository]([https://github.com/your-org/your-client-repo](https://github.com/calvin-cs262-fall2025-teamH/Client))
+- [Service Repository]([https://github.com/your-org/your-service-repo](https://github.com/calvin-cs262-fall2025-teamH/Service))
+
+
 # Project
 
 CoupleBond is a private, lightweight mobile app designed for couples to record shared memories, stay organized, and grow closer together. In its initial version, the app focuses on five essential features: Shared Lists (travel plans, movie lists, couple goals), Anniversary Reminders (first meeting day, birthdays, holidays or custom dates), a Photo Collage & Timeline (with auto-generated highlights like “Year in Review”), a Prayer List for faith-centered reflection, a To-Do List for everyday coordination, and a Calendar for upcoming events. By combining both practical tools and sentimental features, CoupleBond provides couples with not only a place to store memories, but also a way to experience a sense of satisfaction and accomplishment as they complete tasks, check off goals, and celebrate milestones together.
