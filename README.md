@@ -1,6 +1,6 @@
 ## Related Repositories
-- [Client Repository]([https://github.com/your-org/your-client-repo](https://github.com/calvin-cs262-fall2025-teamH/Client))
-- [Service Repository]([https://github.com/your-org/your-service-repo](https://github.com/calvin-cs262-fall2025-teamH/Service))
+- [Client Repository]((https://github.com/calvin-cs262-fall2025-teamH/Client))
+- [Service Repository]((https://github.com/calvin-cs262-fall2025-teamH/Service))
 
 
 # Project
