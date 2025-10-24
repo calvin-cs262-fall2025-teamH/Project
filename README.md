@@ -6,6 +6,7 @@ CoupleBond uniquely integrates organization (lists, calendar, to-do, reminders) 
 This product is designed for a future chat tab with AI memory assistance and other, long-term possibilities such as shared financial/insurance milestones for committed college couples. This ensures that CoupleBond offers couples a meaningful platform that continues to add meaning to their relationship.
 
 ## Related Repositories
+
 - [Client Repository](https://github.com/calvin-cs262-fall2025-teamH/Client)
 - [Service Repository](https://github.com/calvin-cs262-fall2025-teamH/Service)
 
