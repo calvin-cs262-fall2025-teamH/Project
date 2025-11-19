@@ -7,7 +7,7 @@ This product is designed for a future chat tab with AI memory assistance and oth
 
 ## Design Models
 
-- [UI Model](https://github.com/calvin-cs262-fall2025-teamH/Project/blob/main/UI_Model_CoupleBond.png),
+- [UI Model](https://github.com/calvin-cs262-fall2025-teamH/Project/blob/main/UI_Model_CoupleBond.png)
 - [Domain Model](https://github.com/calvin-cs262-fall2025-teamH/Project/blob/main/Domain_Model.png)
 
 ## Related Repositories
