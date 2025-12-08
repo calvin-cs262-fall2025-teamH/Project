@@ -5,6 +5,11 @@ CoupleBond is a private, lightweight mobile app designed for couples to record s
 CoupleBond uniquely integrates organization (lists, calendar, to-do, reminders) with memory features (timeline, collage, prayer reflections) in a single, private space. Unlike general messaging applications (WhatsApp, Telegram) or photo storage apps (Google Photos, iCloud), CoupleBond is purpose-built to support both the practical coordination and the emotional fulfillment of a couple’s shared journey.
 This product is designed for a future chat tab with AI memory assistance and other, long-term possibilities such as shared financial/insurance milestones for committed college couples. This ensures that CoupleBond offers couples a meaningful platform that continues to add meaning to their relationship.
 
+## Usability Documents
+
+- [Usability Test Report](https://github.com/calvin-cs262-fall2025-teamH/Project/blob/main/CoupleBond%20Usability%20Test%20Report.pdf)
+- [Usability Test Script](https://github.com/calvin-cs262-fall2025-teamH/Project/blob/main/CoupleBond%20Usability%20Test%20Script.pdf)
+
 ## Design Models
 
 - [UI Model](https://github.com/calvin-cs262-fall2025-teamH/Project/blob/main/UI_Model_CoupleBond.png)
