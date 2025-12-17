@@ -7,13 +7,19 @@ This product is designed for a future chat tab with AI memory assistance and oth
 
 ## Usability Documents
 
-- [Usability Test Report](https://github.com/calvin-cs262-fall2025-teamH/Project/blob/main/CoupleBond%20Usability%20Test%20Report.pdf)
-- [Usability Test Script](https://github.com/calvin-cs262-fall2025-teamH/Project/blob/main/CoupleBond%20Usability%20Test%20Script.pdf)
+- [Usability Test Report](https://github.com/calvin-cs262-fall2025-teamH/Project/blob/main/documents/Usability_Test_Report.pdf)
+- [Usability Test Script](https://github.com/calvin-cs262-fall2025-teamH/Project/blob/main/documents/Usability_Test_Script.pdf)
+- [Online Help System Instructions](https://github.com/calvin-cs262-fall2025-teamH/Project/blob/main/documents/Online_Help_System_Instructions.pdf)
+
+## Presentation Materials
+
+- [Final Presentation](https://github.com/calvin-cs262-fall2025-teamH/Project/blob/main/presentations/cs262_Hallelujah_Final_Presentation.pptx)S
 
 ## Design Models
 
-- [UI Model](https://github.com/calvin-cs262-fall2025-teamH/Project/blob/main/UI_Model_CoupleBond.png)
-- [Domain Model](https://github.com/calvin-cs262-fall2025-teamH/Project/blob/main/Domain_Model.png)
+- [UI Model](https://github.com/calvin-cs262-fall2025-teamH/Project/blob/main/images/UI_Model.png)
+- [Domain Model](https://github.com/calvin-cs262-fall2025-teamH/Project/blob/main/images/Domain_Model.png)
+- [Deployment Diagram](https://github.com/calvin-cs262-fall2025-teamH/Project/blob/main/images/Deployment_Diagram.png)
 
 ## Related Repositories
 
