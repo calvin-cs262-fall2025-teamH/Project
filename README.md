@@ -13,7 +13,7 @@ This product is designed for a future chat tab with AI memory assistance and oth
 
 ## Presentation Materials
 
-- [Final Presentation](https://github.com/calvin-cs262-fall2025-teamH/Project/blob/main/presentations/cs262_Hallelujah_Final_Presentation.pptx)S
+- [Final Presentation](https://github.com/calvin-cs262-fall2025-teamH/Project/blob/main/presentations/cs262_Hallelujah_Final_Presentation.pptx)
 
 ## Design Models
 
